@@ -32,6 +32,7 @@ Sistema en Java que modela drones de entrega autónomos aplicando herencia, enca
 2. Abrir en IntelliJ, Eclipse o NetBeans
 3. Compilar y ejecutar `Main.java`
 4. Seguir las instrucciones en consola
+5. [Ver video explicativo](https://epnecuador.sharepoint.com/:v:/s/yoparayo/IQCjE3S3dthPRoge0KeBmMZjAQCd0vzB2AH7_G-UduMGYlI?e=6Dne0k)
 
 ## Autor
 [Cajas Chasi Jordy Eduardo]
