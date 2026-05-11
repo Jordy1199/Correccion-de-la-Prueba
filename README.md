@@ -34,5 +34,5 @@ Sistema en Java que modela drones de entrega autónomos aplicando herencia, enca
 4. Seguir las instrucciones en consola
 
 ## Autor
-[Tu nombre completo]
+[Cajas Chasi Jordy Eduardo]
 Escuela de Formación de Tecnólogos — EPN
